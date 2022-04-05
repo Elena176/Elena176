@@ -39,9 +39,10 @@ and ect...
 
 ### ✉️ Mail me: locomotive.od@gmail.com
 
+
 More about me:
 
-👩‍💻 I like to write code
-🥅 I am constantly learning new things
-🌏 I love to travel
+👩‍💻 I like to write code                                                                                                                                                    
+🥅 I am constantly learning new things                                                                                                                                      
+🌏 I love to travel                                                                                                                                                         
 😸 I love cats 
