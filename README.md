@@ -45,4 +45,4 @@ More about me:
 👩‍💻 I like to write code                                                                                                                                                    
 🥅 I am constantly learning new things                                                                                                                                      
 🌏 I love to travel                                                                                                                                                         
-👨‍👩‍👧 I love my life and my family 
+👨‍👩‍👧‍👦 I love my life and my family 
