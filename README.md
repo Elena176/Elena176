@@ -13,11 +13,11 @@ My projects:
 1. 📋 Todolist                                                                                                                                                    
 This project helps to organized better. Technologies that used here : **TypeScript, React, Redux, Redux-thunk, Hooks, Axios , Material UI, Formik, tests**.           
 2. ☺️ Flash-cards                                                                                                                                                   
-This project helps to study with flash cards. Joint project, a team of 3 people. Technologies that used here : **TypeScript,React, Redux, Redux-thunk, Hooks, Axios**.                                                                                                                                                                
+This project helps to study with flash cards. Join project, a team of 2 people. Technologies that used here : **TypeScript,React, Redux, Redux-thunk, Hooks, Axios**.                                                                                                                                                                
 3. 👾 Social network                                                                                                                                                                                                                                                                                                                Technologies that used here :**TypeScript, Redux, Hooks, REST API**. Unfinished project, I’m currently working on.                                                        
 4. 🐑 Redux counter                                                                                                                                                                                                                                                                                                                   
 Small train project with **TypeScript,React, Redux, Locale storage, Hooks, CSS**.                                                                                                                                                                                                                                                 
-and ect...                                                                                                                                                                    
+and etc...                                                                                                                                                                    
 
 
 🎯 **I'm always up for new connections and collaborations**
