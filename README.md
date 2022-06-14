@@ -35,7 +35,7 @@ and etc...
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## You can check my CV 🍒[here](https://www.linkedin.com/in/elena-tokarieva)🍒
+## You can check my CV 🍒[here](https://drive.google.com/drive/folders/1GEx5rx2dbmtAvRs7G0sIVz0UI2KNlnSz?usp=sharing)🍒
 
 ### ✉️ Mail me: locomotive.od@gmail.com
 
